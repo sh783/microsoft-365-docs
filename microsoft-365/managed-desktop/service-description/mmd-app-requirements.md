@@ -54,5 +54,5 @@ Security:
 
 Microsoft Managed Desktop only supports device drivers that are available through Windows Update or installed inbox with the Microsoft Managed Device. 
 
-If an application requires a specific driver(s) to run it is considered a Restricted Application and requires an  to be deployed to Microsoft Managed Desktop. 
+If an application requires a specific driver(s) to run it is considered a Restricted Application and requires an exception before it can be deployed to Microsoft Managed Desktop. 
 
